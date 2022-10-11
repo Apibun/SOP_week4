@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "C:/work/3-1/SOP/week4/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/work/3-1/SOP/week4/target/flow-frontend",
+  "staticOutput": "C:/work/3-1/SOP/week4/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "C:\\work\\3-1\\SOP\\week4\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\work\\3-1\\SOP\\week4\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
